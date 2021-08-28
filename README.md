@@ -1,6 +1,8 @@
 # Maiaru
 
-Yaru theme with Maia Color
+![Maiaru Logo](https://github.com/kuroehanako/Maiaru/blob/1f71cd07cc055abcd1e030cab23c2db23f0230bf/maiaru-logo.png)
+
+Yaru theme with Maia colors
 
 # Variants
 

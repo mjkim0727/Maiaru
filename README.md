@@ -1,6 +1,6 @@
-# Yaru-Manjaro
+# Maiaru
 
-Yaru theme with Maia Color
+Yaru theme with Manjaro Color
 
 # Screenshots
 

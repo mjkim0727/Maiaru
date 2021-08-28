@@ -1,0 +1,24 @@
+<svg width="24" height="24" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient8588-0-1" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.48294 0 0 .48294 -.01112 -119.42)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#948b74" offset="0"/>
+   <stop stop-color="#aea795" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8590-3-3" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.11957 0 0 .11957 .52176 .52174)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+ </defs>
+ <ellipse transform="scale(-1)" cx="-12" cy="-12.523" rx="12" ry="11.477" enable-background="new" opacity=".1"/>
+ <ellipse cx="12" cy="12" rx="11.5" ry="11.5" enable-background="new" fill="url(#linearGradient8588-0-1)"/>
+ <g transform="translate(-320,-187.5)" enable-background="new" opacity=".1">
+  <path d="m331.5 193v7h1v-7z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" image-rendering="auto" opacity="1" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m336.92 195.03-0.70899 0.70899a6 6 0 0 1 1.7871 4.2637 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 1.7852-4.2656l-0.70508-0.70508a7 7 0 0 0-2.0801 4.9707 7 7 0 0 0 7 7 7 7 0 0 0 7-7 7 7 0 0 0-2.0781-4.9727z" opacity="1" style="paint-order:stroke fill markers"/>
+ </g>
+ <path d="m11.5 5v7h1v-7z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m16.922 7.0273-0.70899 0.70899a6 6 0 0 1 1.7871 4.2637 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 1.7852-4.2656l-0.70508-0.70508a7 7 0 0 0-2.0801 4.9707 7 7 0 0 0 7 7 7 7 0 0 0 7-7 7 7 0 0 0-2.0781-4.9727z" enable-background="new" fill="#fff" style="paint-order:stroke fill markers"/>
+ <ellipse cx="12" cy="11.977" rx="11.455" ry="11.477" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m12 1c-6.0751 0-11 4.9249-11 11 0 6.0751 4.9249 11 11 11s11-4.9249 11-11c0-6.0751-4.9249-11-11-11zm0 1a10 10 0 0 1 10 10 10 10 0 0 1-10 10 10 10 0 0 1-10-10 10 10 0 0 1 10-10z" enable-background="new" fill="url(#linearGradient8590-3-3)"/>
+</svg>

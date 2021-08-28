@@ -1,0 +1,28 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient8588" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.94488 0 0 .94488 .50001 -233.13)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#76c22b" offset="0"/>
+   <stop stop-color="#a6d74f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8590" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.23913 0 0 .23913 1.0435 1.0435)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient927"/>
+  <linearGradient id="linearGradient927">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle transform="scale(-1)" cx="-24" cy="-25" r="23" enable-background="new" opacity=".1"/>
+ <circle cx="24" cy="24" r="22.5" enable-background="new" fill="url(#linearGradient8588)"/>
+ <path d="m4.6348 12.594a22.5 22.5 0 0 0-3.1348 11.406 22.5 22.5 0 0 0 15.875 21.5h13.186a22.5 22.5 0 0 0 12.904-10.256z" enable-background="new" fill="#fff" opacity=".05"/>
+ <path d="m24 1.5c-12.404 0-22.5 10.096-22.5 22.5 0 12.404 10.096 22.5 22.5 22.5 12.404 0 22.5-10.096 22.5-22.5 0-12.404-10.096-22.5-22.5-22.5zm0 3.7499c10.378 0 18.75 8.3726 18.75 18.75 0 10.378-8.3726 18.75-18.75 18.75-10.378 0-18.75-8.3726-18.75-18.75 0-10.378 8.3726-18.75 18.75-18.75z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <g transform="matrix(.10817 0 0 .10817 3.2308 2.4999)" enable-background="new" opacity=".1">
+  <path d="m80 104v144c0 35.157 28.843 64 64 64h96c35.157 0 64-28.843 64-64v-80c0-26.32-21.68-48-48-48-12.296 0-23.467 4.8602-32 12.586-8.5332-7.7257-19.704-12.586-32-12.586-26.32 0-48 21.68-48 48v80h32v-80c0-9.0261 6.9739-16 16-16s16 6.9739 16 16v80h32v-80c0-9.0261 6.9739-16 16-16s16 6.9739 16 16v80c0 17.863-14.137 32-32 32h-96c-17.863 0-32-14.137-32-32v-144z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" image-rendering="auto" opacity="1" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+ <g transform="matrix(.10817 0 0 .10817 3.2308 1.4999)" enable-background="new" fill="#92b372">
+  <path d="m80 104v144c0 35.157 28.843 64 64 64h96c35.157 0 64-28.843 64-64v-80c0-26.32-21.68-48-48-48-12.296 0-23.467 4.8602-32 12.586-8.5332-7.7257-19.704-12.586-32-12.586-26.32 0-48 21.68-48 48v80h32v-80c0-9.0261 6.9739-16 16-16s16 6.9739 16 16v80h32v-80c0-9.0261 6.9739-16 16-16s16 6.9739 16 16v80c0 17.863-14.137 32-32 32h-96c-17.863 0-32-14.137-32-32v-144z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" fill="#fff" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+ <circle cx="24" cy="24" r="22.5" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m24 2a22 22 0 0 0-22 22 22 22 0 0 0 22 22 22 22 0 0 0 22-22 22 22 0 0 0-22-22zm0 0.95653a21.043 21.043 0 0 1 21.043 21.043 21.043 21.043 0 0 1-21.043 21.043 21.043 21.043 0 0 1-21.043-21.043 21.043 21.043 0 0 1 21.043-21.043z" enable-background="new" fill="url(#linearGradient8590)"/>
+ <path d="m24 2a22 22 0 0 0-22 22 22 22 0 0 0 22 22 22 22 0 0 0 22-22 22 22 0 0 0-22-22zm0 0.95653a21.043 21.043 0 0 1 21.043 21.043 21.043 21.043 0 0 1-21.043 21.043 21.043 21.043 0 0 1-21.043-21.043 21.043 21.043 0 0 1 21.043-21.043z" enable-background="new" fill="url(#linearGradient8590)"/>
+</svg>

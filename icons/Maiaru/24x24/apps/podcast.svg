@@ -1,0 +1,22 @@
+<svg width="24" height="24" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient8588-0-1" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.48294 0 0 .48294 -.01112 -119.42)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7839b7" offset="0"/>
+   <stop stop-color="#8c59d9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8590-3-3" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.11957 0 0 .11957 .52176 .52174)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+ </defs>
+ <ellipse transform="scale(-1)" cx="-12" cy="-12.523" rx="12" ry="11.477" enable-background="new" opacity=".1"/>
+ <ellipse cx="12" cy="12" rx="11.5" ry="11.5" enable-background="new" fill="url(#linearGradient8588-0-1)"/>
+ <circle cx="12" cy="11.97" r="8" enable-background="new" fill="#fff" opacity=".2"/>
+ <ellipse cx="12" cy="12" rx="5" ry="5" enable-background="new" fill="#fff" opacity=".2"/>
+ <path d="m11.992 10.347c-0.90372 0-1.6364 0.73263-1.6364 1.6364 7.3e-4 0.69256 0.43789 1.3095 1.0909 1.5404l2.7e-4 8.4758h1.0909l-2.7e-4 -8.4758c0.65303-0.23086 1.0899-0.8478 1.0909-1.5404 0-0.90375-0.73265-1.6364-1.6364-1.6364z" enable-background="new" fill="#fff" stroke-width="1.0909"/>
+ <path d="m1.0547 13a11 11 0 0 0 10.945 10 11 11 0 0 0 10.949-10z" enable-background="new" fill="#fff" opacity=".1"/>
+ <ellipse cx="12" cy="11.977" rx="11.455" ry="11.477" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m12 1c-6.0751 0-11 4.9249-11 11 0 6.0751 4.9249 11 11 11 6.0751 0 11-4.9249 11-11 0-6.0751-4.9249-11-11-11zm0 1a10 10 0 0 1 10 10 10 10 0 0 1-10 10 10 10 0 0 1-10-10 10 10 0 0 1 10-10z" enable-background="new" fill="url(#linearGradient8590-3-3)"/>
+</svg>

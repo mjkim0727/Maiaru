@@ -1,0 +1,10 @@
+<svg width="24" height="24" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1041" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.48294 0 0 .48294 -.01112 -119.42)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#eab305" offset="0"/>
+   <stop stop-color="#ffda64" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m19.762 3.5312a11.5 11.5 0 0 1-7.7617 3.0312 11.5 11.5 0 0 1-1.4453-0.10156 11.5 11.5 0 0 1 1.4453 5.5391 11.5 11.5 0 0 1-5.7539 9.9453 11.5 11.5 0 0 0 5.7539 1.5547 11.5 11.5 0 0 0 11.5-11.5 11.5 11.5 0 0 0-3.7383-8.4688z" enable-background="new" fill="url(#linearGradient1041)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".4"/>
+ <path d="m11.92 13.295a11.5 11.5 0 0 1-0.15234 0.99024 11.5 11.5 0 0 1-0.28516 1.1133 11.5 11.5 0 0 1-0.39648 1.0781 11.5 11.5 0 0 1-0.50196 1.0352 11.5 11.5 0 0 1-0.60156 0.97851 11.5 11.5 0 0 1-0.69726 0.91407 11.5 11.5 0 0 1-0.78516 0.83984 11.5 11.5 0 0 1-0.86328 0.75781 11.5 11.5 0 0 1-0.9375 0.66797 11.5 11.5 0 0 1-0.11133 0.0664 11 11 0 0 0 5.6094 1.5586 11 11 0 0 0 10.949-10z" enable-background="new" fill="#fff" opacity=".1"/>
+</svg>

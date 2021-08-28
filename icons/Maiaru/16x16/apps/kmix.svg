@@ -1,0 +1,29 @@
+<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1014" x1="308.49" x2="315" y1="219.02" y2="247.69" gradientTransform="translate(-303 -218)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3863-4-9-1"/>
+  <linearGradient id="linearGradient3863-4-9-1">
+   <stop stop-color="#2e3436" offset="0"/>
+   <stop offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient6324" x1="308.49" x2="315" y1="219.02" y2="247.69" gradientTransform="translate(-303 -219)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3863-4-9-1"/>
+  <radialGradient id="radialGradient1052-9-6" cx="247.5" cy="220.05" r="160" gradientTransform="matrix(.062087 -.23171 .13289 .035606 108 203.79)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#aea79f" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient1054-0-1" cx="265.28" cy="65.436" r="56" gradientTransform="matrix(.17784 .047653 -.047657 .17786 113.9 106.85)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4d4d4d" offset="0"/>
+   <stop stop-color="#333" offset=".57201"/>
+   <stop stop-color="#1a1a1a" offset="1"/>
+  </radialGradient>
+ </defs>
+ <path d="m8 1.5008c-4.1411 0-7.498 3.3575-7.498 7.4991 0 4.1416 3.357 7.4991 7.498 7.4991 4.141 0 7.498-3.3575 7.498-7.4991 0-4.1416-3.357-7.4991-7.498-7.4991z" color="#000000" opacity=".1" stroke="url(#linearGradient1014)"/>
+ <path d="m8 0.50089c-4.1411 0-7.498 3.3575-7.498 7.4991 0 4.1416 3.357 7.4991 7.498 7.4991 4.141 0 7.498-3.3575 7.498-7.4991 0-4.1416-3.357-7.4991-7.498-7.4991z" color="#000000" fill="#555753" stroke="url(#linearGradient6324)"/>
+ <g transform="matrix(.1875 0 0 .1875 -26.973 -8.6223)" enable-background="new" stroke-width="2">
+  <rect x="154.52" y="56.652" width="64" height="64" rx="384" ry="384" enable-background="new" fill="#4d4d4d" style="paint-order:normal"/>
+  <ellipse cx="186.52" cy="88.653" rx="28" ry="28.001" enable-background="new" fill="#191622" style="paint-order:normal"/>
+  <ellipse cx="186.52" cy="88.653" rx="24" ry="24.001" enable-background="new" fill="#4d4d4d" style="paint-order:normal"/>
+  <ellipse transform="rotate(-15)" cx="157.19" cy="134" rx="22.011" ry="22.012" enable-background="new" fill="url(#radialGradient1052-9-6)" style="paint-order:normal"/>
+  <ellipse cx="186.51" cy="88.747" rx="10.011" ry="10.012" enable-background="new" style="paint-order:normal"/>
+  <ellipse transform="rotate(-15)" cx="157.19" cy="134" rx="8.0109" ry="8.0114" enable-background="new" fill="url(#radialGradient1054-0-1)" style="paint-order:normal"/>
+ </g>
+</svg>

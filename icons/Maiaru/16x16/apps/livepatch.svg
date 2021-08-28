@@ -1,0 +1,20 @@
+<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient8588-0-1-5" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.31496 0 0 .31496 -15.833 -93.71)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f37e40" offset="0"/>
+   <stop stop-color="#f34f17" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8590-3-3-4" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.076087 0 0 .076087 .69566 .69567)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+ </defs>
+ <ellipse transform="scale(-1)" cx="-8" cy="-8.5" rx="7" ry="6.5" enable-background="new" opacity=".1"/>
+ <circle transform="scale(-1)" cx="-8" cy="-8" r="7.5" enable-background="new" fill="url(#linearGradient8588-0-1-5)"/>
+ <path d="m7.75 4c-0.41421 0-0.75 0.33579-0.75 0.75s0.33579 0.75 0.75 0.75c0.0281-2.8e-4 0.0563-3e-3 0.0842-5e-3 0.0491 3e-3 0.10413 5e-3 0.16577 5e-3a2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5 2.5 2.5 0 0 1-2.4468-2h0.85914c0.2595-5e-5 0.42167-0.16838 0.29199-0.3031l-1.5374-1.5958c-0.0574-0.0596-0.16142-0.0976-0.27611-0.10083-0.126-3e-3 -0.24481 0.0353-0.30786 0.10083l-1.5374 1.5958c-0.12968 0.13472 0.0325 0.30305 0.29199 0.3031h0.69458c0.24623 1.973 1.9281 3.5 3.9678 3.5 2.2092 0 4-1.7909 4-4 0-2.2091-1.7909-4-4-4-0.0563 0-0.10503 3e-3 -0.14831 8e-3 -0.0337-5e-3 -0.0677-7e-3 -0.10169-8e-3z" enable-background="new" fill="#faf8f6" stroke-width=".05"/>
+ <path d="m0.70256 8.6667a7.3333 7.3333 0 0 0 7.297 6.6667 7.3333 7.3333 0 0 0 7.3-6.6667z" enable-background="new" fill="#fff" opacity=".1"/>
+ <circle cx="8" cy="8" r="7.5" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m8 1c-3.866 0-7 3.134-7 7 0 3.866 3.134 7 7 7 3.866 0 7-3.134 7-7 0-3.866-3.134-7-7-7zm0 1a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" enable-background="new" fill="url(#linearGradient8590-3-3-4)"/>
+</svg>

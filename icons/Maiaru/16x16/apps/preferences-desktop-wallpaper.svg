@@ -1,0 +1,26 @@
+<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient16535" x1="320.49" x2="335.5" y1="247.09" y2="240.85" gradientTransform="matrix(-1 0 0 1 336 -236)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#34be5d" offset="0"/>
+   <stop stop-color="#1abc93" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient993-2" x1="328" x2="328" y1="238" y2="250" gradientTransform="rotate(-90,328,244)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+  <clipPath id="clipPath983-8">
+   <path d="m325.1 237c-2.8077 0-3.1098 0.28839-3.096 3.1018v3.8982 3.8982c-0.0138 2.8134 0.28834 3.1018 3.096 3.1018h5.8075c2.8077 0 3.096-0.28835 3.096-3.1018v-3.8982-3.8982c0-2.8134-0.28835-3.1018-3.096-3.1018z" color="#000000" fill="#46a926"/>
+  </clipPath>
+ </defs>
+ <path d="m3.8246 1.4997c-1.7621-9e-3 -2.5864 0.11692-2.9785 0.81641-0.26839 0.76882-0.3457 1.8456-0.3457 3.3672v3.6328c0 4.5363 0.6489 5.1836 5.1895 5.1836h2.3106v-13z" enable-background="new" fill="#f6f5f4"/>
+ <path d="m15.5 5.5957c0-0.71904-0.0139-1.3018-0.10352-1.8359-0.0897-0.53409-0.27628-1.0683-0.68359-1.4766-0.4073-0.40826-0.94323-0.59657-1.4785-0.68554-0.53529-0.089-1.1205-0.10119-1.8418-0.0977h-2.8926-3.8984c-0.71816-3e-3 -1.3024 9e-3 -1.8359 0.0977-0.53528 0.089-1.0712 0.27727-1.4785 0.68554-0.40731 0.40827-0.59394 0.94248-0.68359 1.4766-0.0897 0.53408-0.10352 1.1169-0.10352 1.8359v5.8086c0 0.71904 0.0137 1.3006 0.10352 1.834 0.0898 0.53341 0.27792 1.0677 0.68554 1.4746 0.40762 0.40693 0.94271 0.59404 1.4766 0.68359 0.53386 0.0896 1.1155 0.10352 1.8359 0.10352h3.8984 2.8984c0.72043 0 1.3021-0.014 1.8359-0.10352 0.53385-0.0895 1.0689-0.27666 1.4766-0.68359s0.59578-0.9412 0.68554-1.4746c0.0898-0.5334 0.10352-1.1149 0.10352-1.834z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" opacity=".1" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m0.5004 4.8542c0-3.0417 0.30899-3.3689 3.3233-3.354h4.1767 4.1767c3.0143-0.0149 3.3233 0.31237 3.3233 3.354v6.2915c0 3.0417-0.30895 3.354-3.3233 3.354h-4.1767-4.1767c-3.0144 0-3.3233-0.31238-3.3233-3.354z" color="#000000" fill="url(#linearGradient16535)"/>
+ <path d="m3.66 1.5c-0.64462 5.9e-4 -1.158 0.0169-1.5777 0.094-0.42771 0.0785-0.77639 0.22554-1.0324 0.50528-0.25613 0.27983-0.39099 0.66192-0.46286 1.1293-0.0256 0.16636-0.042 0.35126-0.0551 0.54591-0.0236 0.35154-0.0319 0.74744-0.0319 1.2124v6.0253c0 0.72243 0.0152 1.2918 0.087 1.7596 0.0718 0.46836 0.20638 0.85045 0.46229 1.1312 0.25595 0.28077 0.60548 0.42867 1.0336 0.50655 0.42739 0.0777 0.94816 0.0937 1.6096 0.0901l0.30758 3.2e-4v-13z" enable-background="new" opacity=".3"/>
+ <path d="m7 1.5v5.5c0 1.662 1.338 3 3 3h5.5v-5.1465c0-3.0417-0.30795-3.3684-3.3223-3.3535h-4.1777z" color="#000000" opacity=".3"/>
+ <path d="m15.5 8.963-7.4997-7.463v1.126c0 5.3643 0.52032 6.1794 2.765 6.339 1.5505 0.0801 1.7953-2e-3 1.7953-2e-3z" color="#000000" fill="#faf8f6"/>
+ <path d="m8 1.5 7.4997 7.5v-1.626c0-5.3643-0.0206-5.7164-2.2652-5.876-1.5505-0.0801-1.7953 2e-3 -1.7953 2e-3z" color="#000000" fill="#5d5d5d"/>
+ <path d="m15.512 4.9133c0-2.8973-0.30259-3.4401-3.2545-3.4249h-4.2572-4.2572c-2.952-0.0152-3.2545 0.52756-3.2545 3.4249v6.1733c0 2.8966 0.30255 3.4249 3.2545 3.4249h4.2572 4.2572c2.952 0 3.2545-0.52828 3.2545-3.4249z" color="#000000" fill="none" opacity=".4" stroke="#000" stroke-width=".97653"/>
+ <path transform="rotate(90 286 -34)" d="m325.1 237c-2.8077 0-3.1098 0.28839-3.096 3.1018v3.8982 3.8982c-0.0138 2.8134 0.28834 3.1018 3.096 3.1018h5.8075c2.8077 0 3.096-0.28835 3.096-3.1018v-3.8982-3.8982c0-2.8134-0.28835-3.1018-3.096-3.1018z" clip-path="url(#clipPath983-8)" color="#000000" fill="none" opacity=".5" stroke="url(#linearGradient993-2)" stroke-width="2"/>
+</svg>

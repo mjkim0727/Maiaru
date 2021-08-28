@@ -1,0 +1,26 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient4105" x1="77" x2="227" y1="156" y2="156" gradientTransform="matrix(0 -.3 -.3 0 70.8 69.6)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e6e6e6" offset="0"/>
+   <stop stop-color="#f2f2f2" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8590" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.23913 0 0 .23913 1.0435 1.0435)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle transform="scale(-1)" cx="-24" cy="-25" r="23" enable-background="new" opacity=".1"/>
+ <g transform="matrix(.3 0 0 .3 -21.6 -22.8)" enable-background="new" stroke-width="3.3333">
+  <g stroke-width="3.3333">
+   <path d="m153.36 230.99a75 75 0 0 1-74.784-59.692 75 75 0 0 1 44.728-84.589 75 75 0 0 1 91.436 28.2l-62.74 41.093z" fill="#f76363"/>
+   <path d="m209.45 107.79a75 75 0 0 1 5.5636 88.877l-63.017-40.668z" fill="#5884f4"/>
+   <path d="m195.04 217.42a75 75 0 0 1-62.45 11.023l19.411-72.444z" fill="#76c22b"/>
+   <path d="m219.97 187.7a75 75 0 0 1-30.473 33.256l-37.5-64.952z" fill="#fdc92b"/>
+  </g>
+ </g>
+ <path d="m24 1.5c-12.426 0-22.5 10.074-22.5 22.5s10.074 22.5 22.5 22.5 22.5-10.074 22.5-22.5-10.074-22.5-22.5-22.5z" enable-background="new" fill="url(#linearGradient4105)" opacity=".2"/>
+ <circle cx="24" cy="24" r="22.5" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m24 2a22 22 0 0 0-22 22 22 22 0 0 0 22 22 22 22 0 0 0 22-22 22 22 0 0 0-22-22zm0 0.95653a21.043 21.043 0 0 1 21.043 21.043 21.043 21.043 0 0 1-21.043 21.043 21.043 21.043 0 0 1-21.043-21.043 21.043 21.043 0 0 1 21.043-21.043z" enable-background="new" fill="url(#linearGradient8590)"/>
+</svg>

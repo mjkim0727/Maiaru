@@ -1,0 +1,22 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient8588" x1="13.735" x2="38.1" y1="249.69" y2="292.77" gradientTransform="matrix(.94488 0 0 .94488 .50001 -233.13)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7839b7" offset="0"/>
+   <stop stop-color="#8c59d9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8590" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.23913 0 0 .23913 1.0435 1.0435)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle transform="scale(-1)" cx="-24" cy="-25" r="23" enable-background="new" opacity=".1"/>
+ <circle cx="24" cy="24" r="22.5" enable-background="new" fill="url(#linearGradient8588)"/>
+ <circle cx="24" cy="24" r="16" enable-background="new" fill="#fff" opacity=".2"/>
+ <circle cx="24" cy="24" r="10" enable-background="new" fill="#fff" opacity=".2"/>
+ <path d="m23.94 20.881c-1.8002 0-3.2596 1.4594-3.2596 3.2596 2e-3 1.3796 1.0454 2.6085 2.3462 3.0684l-0.02629 17.79h2l0.0263-17.79c1.3008-0.45987 2.1711-1.6888 2.1731-3.0684 0-1.8002-1.4594-3.2596-3.2596-3.2596z" enable-background="new" fill="#fff" stroke-width="2.1731"/>
+ <path d="m2.1085 26a22 22 0 0 0 21.891 20 22 22 0 0 0 21.9-20z" enable-background="new" fill="#fff" opacity=".1"/>
+ <circle cx="24" cy="24" r="22.5" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m24 2a22 22 0 0 0-22 22 22 22 0 0 0 22 22 22 22 0 0 0 22-22 22 22 0 0 0-22-22zm0 0.95653a21.043 21.043 0 0 1 21.043 21.043 21.043 21.043 0 0 1-21.043 21.043 21.043 21.043 0 0 1-21.043-21.043 21.043 21.043 0 0 1 21.043-21.043z" enable-background="new" fill="url(#linearGradient8590)"/>
+</svg>

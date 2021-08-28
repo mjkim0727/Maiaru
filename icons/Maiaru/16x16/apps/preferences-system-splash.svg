@@ -1,0 +1,28 @@
+<svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1025" x1="-251" x2="-236" y1="-328.5" y2="-328.5" gradientTransform="translate(235.5,320.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1a7fd4" offset="0"/>
+   <stop stop-color="#37a6e6" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient8590-3-3-4" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.076087 0 0 .076087 .19566 1.1957)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-16.5" y="-15.5" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" opacity=".2"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-15.5" y="-15.5" width="15" height="15" rx="7.5" ry="7.5" enable-background="new" fill="url(#linearGradient1025)"/>
+ <circle cx="8" cy="8" r="7.5" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m8 1c-3.866 0-7 3.134-7 7 0 3.866 3.134 7 7 7 3.866 0 7-3.134 7-7 0-3.866-3.134-7-7-7zm0 1a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" enable-background="new" fill="url(#linearGradient8590-3-3-4)"/>
+ <g transform="matrix(.066964 0 0 .066964 -2.1786 -2.4464)" enable-background="new" fill="#fff" stroke-width="14.933">
+  <circle cx="152" cy="102.5" r="9.5" opacity=".6" style="paint-order:stroke fill markers"/>
+  <circle cx="152" cy="209.5" r="9.5" style="paint-order:stroke fill markers"/>
+  <circle cx="205.5" cy="156" r="9.5" opacity=".4" style="paint-order:stroke fill markers"/>
+  <circle cx="98.5" cy="156" r="9.5" opacity=".8" style="paint-order:stroke fill markers"/>
+  <circle cx="189.95" cy="118.3" r="9.5" opacity=".5" style="paint-order:stroke fill markers"/>
+  <circle cx="114.36" cy="118.11" r="9.5" opacity=".7" style="paint-order:stroke fill markers"/>
+  <circle transform="rotate(-90)" cx="-193.99" cy="114.26" r="9.5" opacity=".9" style="paint-order:stroke fill markers"/>
+  <circle cx="189.88" cy="193.62" r="9.5" opacity=".3" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

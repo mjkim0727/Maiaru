@@ -1,0 +1,39 @@
+<svg width="48" height="48" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1013" x1="321.5" x2="366.5" y1="84" y2="84" gradientTransform="translate(-320,-60)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4195"/>
+  <linearGradient id="linearGradient4195">
+   <stop stop-color="#8c59d9" offset="0"/>
+   <stop stop-color="#a7a7f1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient946" x1="-101" x2="-69" y1="-344" y2="-344" gradientTransform="translate(1)" gradientUnits="userSpaceOnUse">
+   <stop stop-opacity="0" offset="0"/>
+   <stop offset=".49903"/>
+   <stop stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="filter952" x="-.12" y="-.12" width="1.24" height="1.24" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.6"/>
+  </filter>
+  <linearGradient id="linearGradient1037" x1="-98" x2="-70" y1="-344" y2="-344" gradientTransform="translate(60,320)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4195"/>
+  <linearGradient id="linearGradient1021" x1="-95" x2="-73" y1="-343.86" y2="-343.86" gradientTransform="translate(60,320)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4195"/>
+  <linearGradient id="linearGradient1029" x1="-89" x2="-79" y1="-343.86" y2="-343.86" gradientTransform="translate(60,320)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4195"/>
+  <linearGradient id="linearGradient8590" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.23913 0 0 .23913 1.0435 1.0435)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle transform="scale(-1)" cx="-24" cy="-25" r="23" enable-background="new" opacity=".1"/>
+ <circle cx="24" cy="24" r="22.5" enable-background="new" fill="url(#linearGradient1013)"/>
+ <path d="M 24,1.5 A 22.5,22.5 0 0 0 1.5,24 22.5,22.5 0 0 0 24,46.5 Z" enable-background="new" fill="#fff" opacity=".25"/>
+ <circle transform="matrix(0 -1 -1 0 -320 -60)" cx="-84" cy="-344" r="16" color="#000000" fill="url(#linearGradient946)" filter="url(#filter952)" opacity=".4"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-25" cy="-24" r="16" color="#000000" opacity=".1"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-24" cy="-24" r="16" color="#000000" fill="#f7f7f7"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-24" cy="-24" r="14" color="#000000" fill="url(#linearGradient1037)" opacity=".4"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-24" cy="-24" r="12" color="#000000" fill="#f7f7f7"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-24" cy="-23.862" r="11" color="#000000" fill="url(#linearGradient1021)" opacity=".4"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-24" cy="-23.862" r="5" color="#000000" fill="url(#linearGradient1029)" opacity=".4"/>
+ <path d="m22 16h4v8l-1.5 1.5 1.5 1.5v5h-4v-9l1.5-1.5-1.5-1.5z" enable-background="new" fill="#3b3b3b"/>
+ <circle cx="24" cy="24" r="22.5" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m24 2a22 22 0 0 0-22 22 22 22 0 0 0 22 22 22 22 0 0 0 22-22 22 22 0 0 0-22-22zm0 0.95653a21.043 21.043 0 0 1 21.043 21.043 21.043 21.043 0 0 1-21.043 21.043 21.043 21.043 0 0 1-21.043-21.043 21.043 21.043 0 0 1 21.043-21.043z" enable-background="new" fill="url(#linearGradient8590)"/>
+</svg>

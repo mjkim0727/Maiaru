@@ -1,0 +1,30 @@
+<svg width="24" height="24" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1077" x1="320.5" x2="343.5" y1="200" y2="200" gradientTransform="translate(-320,-188)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4195"/>
+  <linearGradient id="linearGradient4195">
+   <stop stop-color="#8c59d9" offset="0"/>
+   <stop stop-color="#a7a7f1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1085" x1="-207" x2="-193" y1="-332" y2="-332" gradientTransform="translate(188,320)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4195"/>
+  <linearGradient id="linearGradient1093" x1="-205" x2="-195" y1="-332" y2="-332" gradientTransform="translate(188,320)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4195"/>
+  <linearGradient id="linearGradient1101" x1="-203" x2="-197" y1="-332" y2="-332" gradientTransform="translate(188,320)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4195"/>
+  <linearGradient id="linearGradient8590-3-3" x1="96" x2="96" y1="4" y2="188" gradientTransform="matrix(.11957 0 0 .11957 .52176 .52174)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".125"/>
+   <stop stop-color="#fff" stop-opacity=".098039" offset=".925"/>
+   <stop stop-color="#fff" stop-opacity=".49804" offset="1"/>
+  </linearGradient>
+ </defs>
+ <ellipse transform="scale(-1)" cx="-12" cy="-12.523" rx="12" ry="11.477" enable-background="new" opacity=".1"/>
+ <ellipse cx="12" cy="12" rx="11.5" ry="11.5" enable-background="new" fill="url(#linearGradient1077)"/>
+ <path d="m12 1.5a10.5 10.5 0 0 0-10.5 10.5 10.5 10.5 0 0 0 10.5 10.5z" enable-background="new" fill="#fff" opacity=".25"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-13" cy="-12" r="8" color="#000000" opacity=".1"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-12" cy="-12" r="8" color="#000000" fill="#f7f7f7"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-12" cy="-12" r="7" color="#000000" fill="url(#linearGradient1085)" opacity=".4"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-12" cy="-12" r="6" color="#000000" fill="#f7f7f7"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-12" cy="-12" r="5" color="#000000" fill="url(#linearGradient1093)" opacity=".4"/>
+ <circle transform="matrix(0,-1,-1,0,0,0)" cx="-12" cy="-12" r="3" color="#000000" fill="url(#linearGradient1101)" opacity=".4"/>
+ <path d="m11 8h2v4.5l-1 1 1 1v1.5h-2v-4.5l1-1-1-1z" enable-background="new" fill="#3b3b3b"/>
+ <ellipse cx="12" cy="11.977" rx="11.455" ry="11.477" enable-background="new" fill="none" opacity=".4" stroke="#000" stroke-dashoffset="6.6" stroke-linejoin="round"/>
+ <path d="m12 1c-6.0751 0-11 4.9249-11 11 0 6.0751 4.9249 11 11 11s11-4.9249 11-11c0-6.0751-4.9249-11-11-11zm0 1a10 10 0 0 1 10 10 10 10 0 0 1-10 10 10 10 0 0 1-10-10 10 10 0 0 1 10-10z" enable-background="new" fill="url(#linearGradient8590-3-3)"/>
+</svg>

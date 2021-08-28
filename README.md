@@ -27,5 +27,6 @@ Yaru theme with Maia colors
 
 # Based on
 
- - Yaru-Color : https://github.com/Jannomag/Yaru-Colors
- - Yaru-Remix : https://github.com/Muqtxdir/yaru-remix
+ - Yaru-Color(GTK Themes) : https://github.com/Jannomag/Yaru-Colors
+ - Yaru-Remix(Gnome Shell 40) : https://github.com/Muqtxdir/yaru-remix
+ - Suru-4All(Icons) : https://www.pling.com/p/1403702/

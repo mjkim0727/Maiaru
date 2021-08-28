@@ -1,6 +1,12 @@
 # Maiaru
 
-Yaru theme with Manjaro Color
+Yaru theme with Maia Color
+
+# Variants
+
+ - Unity Style
+ 
+ - Regular Style 
 
 # Screenshots
 
